@@ -1,3 +1,5 @@
 pmd*
 workdir
 workdir/
+*.code-workspace
+*.zip
